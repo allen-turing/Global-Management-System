@@ -1,0 +1,40 @@
+html, body {
+	font-family: 'Fira Sans Condensed', sans-serif;
+}
+
+.jumbotron {
+	background-color: #3aff1230;
+}
+a {
+	text-decoration: none;
+	color: white ;
+}
+
+a:visited {
+	text-decoration: none;
+	color: white;
+}
+a:hover {
+	color: white;
+	text-decoration: none;
+}
+a:active {
+	text-decoration: none;
+	color: white;
+}
+.row {
+	margin-top: 8em;
+	margin-left: 13em;
+}
+.row p {
+	margin-top: 1em;
+	font-size: 1.5em;
+}
+
+label {
+	font-size: 1.3em;
+	font-weight: 400;
+}
+#heading {
+	color: black;
+}
